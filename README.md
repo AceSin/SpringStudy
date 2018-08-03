@@ -1,6 +1,6 @@
-GitHub Study °ø°£
+ï»¿GitHub Study ê³µê°„
 ============
 
 
-##Github + SourceTree ±âº» È°¿ë¹ı Âü°íÇÏ¸é ÁÁÀº ºí·Î±×
-<http://jojoldu.tistory.com/16?category=740343>
+# Github + SourceTree ê¸°ë³¸ í™œìš©ë²• ì°¸ê³ í•˜ë©´ ì¢‹ì€ ë¸”ë¡œê·¸  
+## <http://jojoldu.tistory.com/16?category=740343>
