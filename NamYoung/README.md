@@ -1,5 +1,6 @@
-µð·ºÅä¸® Add Test
+ï»¿ë””ë ‰í† ë¦¬ Add Test
 ============
 
-#encoding ¼³Á¤
-##git config --global gui.encoding utf-8
+#encoding ì„¤ì •  
+##git config --global gui.encoding utf-8  
+
