@@ -9,3 +9,5 @@
 =======
 2222
 >>>>>>> origin/master
+
+add remote
