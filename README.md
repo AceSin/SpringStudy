@@ -1,5 +1,8 @@
 ﻿GitHub Study 공간
 ============
+### 08월 17일
+* Git 기본 명령어 추가
+* <https://github.com/AceSin/SpringStudy/tree/master/NamYoung/Git>
 
 ### 08월 13일
 * MarkDown 문법 정리 추가

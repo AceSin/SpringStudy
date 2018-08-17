@@ -68,7 +68,7 @@ this is ~~~ code block
 
 코드 블럭을 사용해 프로그램 언어를 표현할 수 있다.
 ~~~
-``` java
+```java
 public String Hello(String name){
 	return "Hello " + name;
 }
@@ -189,7 +189,8 @@ github 링크 실습  [Github][go github]
 
 ## 7. 이미지
 
-마크다운에서 이미지 사이즈 조절 기능은없기 때문에 이미지 사이즈를 조절하고 싶은 경우에는`<img width="" height=""></img>`를 사용해야 한다.
+마크다운에서 이미지 사이즈 조절 기능은없기 때문에 이미지 사이즈를 조절하고 싶은 경우에는  
+`<img width="" height=""></img>`를 사용해야 한다.
 ~~~
 ![alt text](path)
 ![alt text](path "image title")

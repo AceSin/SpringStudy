@@ -1,6 +1,5 @@
-﻿디렉토리 Add Test
-============
+﻿### MarkDown
+* MarkDown 문법 정리
 
-### encoding 설정    
-* git config --global gui.encoding utf-8  
-
+### Git
+* Git 기본 명령어
